@@ -1,6 +1,6 @@
 # Exploratory Data Analysis using Python Pandas
 
-<img src = "Corr_heatmap.png" width="200"> <img src = "Corr_matrix.png" width="400">
+<img src = "Corr_heatmap.png" width="300"> <img src = "Corr_matrix.png" width="600">
 
 I used Python Pandas to perform exploratory data analysis on a publicly available Amazon Delivery dataset on Kaggle. In this dataset I
 1. Explored Nulls: finding out how many nulls every column had.
